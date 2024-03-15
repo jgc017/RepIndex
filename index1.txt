@@ -1,0 +1,2 @@
+actividad GA7-220501096-AA1-EV05 HERRAMIENTA DE VERSIONAMIENTO GIT INSTALADA Y CONFIGURADA
+Pureba para la actividad en el documento index1
